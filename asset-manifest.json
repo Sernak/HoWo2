@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HoWo2/static/css/main.303cb022.css",
+    "main.css": "/HoWo2/static/css/main.78766213.css",
     "main.js": "/HoWo2/static/js/main.4c88d730.js",
     "static/js/787.66cb4309.chunk.js": "/HoWo2/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/HoWo2/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/HoWo2/index.html",
-    "main.303cb022.css.map": "/HoWo2/static/css/main.303cb022.css.map",
+    "main.78766213.css.map": "/HoWo2/static/css/main.78766213.css.map",
     "main.4c88d730.js.map": "/HoWo2/static/js/main.4c88d730.js.map",
     "787.66cb4309.chunk.js.map": "/HoWo2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.303cb022.css",
+    "static/css/main.78766213.css",
     "static/js/main.4c88d730.js"
   ]
 }
